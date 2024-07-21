@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Holistic Wellness",
+      "detail": "Ayurveda focuses on overall well-being by addressing physical, mental, and emotional health, promoting harmony in the body and mind.",
+      "image": "../images/r1.jpg"
+    },
+    {
+      "name": "Personalized Approach",
+      "detail": "It tailors treatments to an individual's unique constitution and imbalances, providing personalized care for specific health needs.",
+      "image": "./r2.jpg"
+    },
+    {
+      "name": "Natural Healing",
+      "detail": "Ayurveda relies on natural remedies like herbs, diet, and lifestyle adjustments, minimizing the use of synthetic drugs and chemicals.",
+      "image": "./r3.jpg"
+    },
+    {
+      "name": "Preventive Care",
+      "detail": "Emphasizing prevention through daily routines and seasonal adjustments, Ayurveda helps maintain good health and prevent diseases.",
+      "image": "./r4.jpg"
+    },
+    {
+      "name": "Stress Reduction",
+      "detail": "Ayurveda offers stress management techniques, including meditation and yoga, to improve mental well-being and reduce stress-related ailments.",
+      "image": "./r5.jpg"
+    },
+    {
+      "name": "Complementary Medicine",
+      "detail": "It can complement conventional medicine, offering an integrative approach to health and wellness by addressing root causes and promoting balance.",
+      "image": "./r6.jpg"
+    }
+  ]
+  
